@@ -1,7 +1,7 @@
 {
   "name": "@4tw/vue-confirm-destroy",
   "description": "Delete confirmation button vue-component.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "main": "./dist/confirm-destroy.common.js",
   "license": "MIT",
