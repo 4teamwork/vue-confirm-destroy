@@ -1,7 +1,7 @@
 {
   "name": "@4tw/vue-confirm-destroy",
   "description": "Delete confirmation button vue-component.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
   "main": "./dist/confirm-destroy.common.js",
   "license": "MIT",
@@ -19,10 +19,6 @@
     "release": "yarn version"
   },
   "devDependencies": {
-    "lodash": "^4.17.11",
-    "material-design-icons-iconfont": "^4.0.3",
-    "vue": "^2.6.10",
-    "vuetify": "^1.3.15",
     "@vue/cli-plugin-babel": "^3.0.0",
     "@vue/cli-plugin-eslint": "^3.0.0",
     "@vue/cli-plugin-unit-jest": "^3.0.0",
@@ -35,8 +31,12 @@
     "babel-jest": "^23.6.0",
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^5.0.0-0",
+    "lodash": "^4.17.11",
+    "material-design-icons-iconfont": "^4.0.3",
     "require-context": "^1.1.0",
-    "vue-template-compiler": "^2.6.10"
+    "vue": "^2.6.10",
+    "vue-template-compiler": "^2.6.10",
+    "vuetify": "^1.3.15"
   },
   "eslintConfig": {
     "root": true,
